@@ -1,0 +1,9 @@
+module UIKit
+
+# This will be automatically uncommented when installing globally
+# plugin UIKit
+
+# Core
+Object 0.1 Object.qml
+singleton Palette 0.1 Palette.qml
+singleton Theme 0.1 Theme.qml

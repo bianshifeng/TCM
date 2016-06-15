@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>images/eventindicator.png</file>
+        <file>qml/View.qml</file>
+        <file>qml/Theme/Palette.qml</file>
+        <file>qml/Theme/Object.qml</file>
+        <file>qml/Theme/qmldir</file>
+        <file>qml/Theme/Theme.qml</file>
+        <file>qml/Theme/ThemePalette.qml</file>
+        <file>qml/Pages/PageMain.qml</file>
+        <file>qml/Pages/PageImageTheme.qml</file>
+        <file>qml/Controls/SuperButton.qml</file>
+        <file>qml/Controls/Styles/SuperButtonStyle.qml</file>
+        <file>qml/Controls/CBoxTabButton.qml</file>
+        <file>qml/Controls/UIConstants.js</file>
+        <file>qml/Controls/ControlCard.qml</file>
+        <file>qml/Controls/FlatButton.qml</file>
+        <file>qml/Fonts/BaseIcon.qml</file>
+        <file>qml/Fonts/XmsIcon.qml</file>
+        <file>qml/Fonts/XmsIconFont.js</file>
+        <file>qml/Fonts/XmsIconFont.ttf</file>
+        <file>qml/Fonts/XmsIconLoader.qml</file>
+        <file>qml/Fonts/XmsText.qml</file>
+        <file>qml/Fonts/XmsFontLoader.qml</file>
+        <file>qml/Pages/PageObjectInfo.qml</file>
+        <file>qml/Pages/PageTAPInfo.qml</file>
+        <file>qml/Models/Model_Herbs.qml</file>
+        <file>qml/UserControls/CAP_HerbCtrl.qml</file>
+        <file>qml/Pages/PageTAPManager.qml</file>
+        <file>qml/Pages/PageHerbSearch.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/branding.ico</file>
+        <file>images/page/back.png</file>
+        <file>images/base/borderback.png</file>
+    </qresource>
+</RCC>
